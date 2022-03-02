@@ -1,2 +1,2 @@
 # pythonRouletteGame
-a simple roulette game.
+a simple menu based roulette game.
